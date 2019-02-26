@@ -1,7 +1,7 @@
 # Pix2Pix-Keras
 基于pix2pix模型的动漫图片自动上色 2019-2-25
 ### 关于Generator:
-- 该模型的生成器与Generator与普通的GAN不同，使用了U-Net结构
+##### 该模型的生成器与Generator与普通的GAN不同，使用了U-Net结构
 <div align="center">
   <img src="images/U_Net.jpg" height="480" width="480" >
 </div>
