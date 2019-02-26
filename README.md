@@ -1,8 +1,8 @@
 # Pix2Pix-Keras
 基于pix2pix模型的动漫图片自动上色 2019-2-25
 ### 训练：
-1.将权重文件放入weights文件夹，最新权重下载：https://pan.baidu.com/s/1IUamednTkPE0qPw736Crzw
-2.运行demo.py
+1. 将权重文件放入weights文件夹，最新权重下载：https://pan.baidu.com/s/1IUamednTkPE0qPw736Crzw
+2. 运行demo.py
 ### 预测
 1.将权重文件放入weights文件夹
 2.运行demo.py
