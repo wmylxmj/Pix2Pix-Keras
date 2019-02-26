@@ -18,7 +18,7 @@
 ![](images/sample_5.jpg)
 ![](images/sample_6.jpg)
 ![](images/sample_7.jpg)
-### 为漫画上色测试：
+### 泛化能力测试——为漫画上色测试：
 <div align="center">
   <img src="images/test_1.jpg" height="256" width="256" >
   <img src="images/generate_test_1.jpg" height="256" width="256" >
