@@ -8,7 +8,7 @@
 1. 将权重文件放入weights文件夹
 2. 运行demo.py
 ### 注意：训练集较少，可增加训练集继续训练
-### Demo(中间的为模型生成图):
+### Demo(中间的为pix2pix模型生成图，右边的为原始图片):
 ![](images/sample_1.jpg)
 ![](images/sample_2.jpg)
 ![](images/sample_3.jpg)
