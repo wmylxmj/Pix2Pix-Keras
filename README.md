@@ -4,8 +4,8 @@
 1. 将权重文件放入weights文件夹，最新权重下载：https://pan.baidu.com/s/1IUamednTkPE0qPw736Crzw
 2. 运行demo.py
 ### 预测:
-1.将权重文件放入weights文件夹
-2.运行demo.py
+1. 将权重文件放入weights文件夹
+2. 运行demo.py
 ### 注意：训练集较少，可增加训练集继续训练
 ### Demo(中间的为模型生成图):
 ![](images/sample_1.jpg)
