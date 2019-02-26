@@ -157,6 +157,11 @@ class Pix2Pix(object):
                 if (batch_i+1) % sample_interval == 0:
                     self.save_sample_images(epoch+1, batch_i+1)
                     pass
+                if (batch_i+1) % 500 == 0:
+                    self.generator.save_weights('./weights/generator_weights.h5')
+                    self.discriminator.save_weights('./weights/discriminator_weights.h5')
+                    print('Info: weights saved.')
+                    pass
                 pass
             if (epoch+1) % 10 == 0 :
                 self.generator.save_weights('./weights/generator_weights.h5')
