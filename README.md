@@ -2,7 +2,9 @@
 基于pix2pix模型的动漫图片自动上色 2019-2-25
 ### 关于Generator:
 - 该模型的生成器与Generator与普通的GAN不同，使用了U-Net结构
-![](./images/U_Net.jpg)
+<div align="center">
+  <img src="images/U_Net.jpg" height="480" width="480" >
+</div>
 ### 训练模型：
 1. 将权重文件放入weights文件夹
 2. 在datasets中的320张图片进行训练后的权重下载地址：https://pan.baidu.com/s/1IUamednTkPE0qPw736Crzw
