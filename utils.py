@@ -43,8 +43,8 @@ class DataLoader(object):
             h, w, c = combined_image.shape
             nW = int(w/2)
             image_A, image_B = combined_image[:, :nW, :], combined_image[:, nW:, :]
-            image_A = scipy.misc.imresize(image_A, (self.image_height, self.image_width))
-            image_B = scipy.misc.imresize(image_B, (self.image_height, self.image_width))
+            image_A = scipy.misc.imresize(image_A, (self.image_width, self.image_height))
+            image_B = scipy.misc.imresize(image_B, (self.image_width, self.image_height))
             if not for_testing and np.random.random() < 0.5:
                 # 数据增强，左右翻转
                 image_A = np.fliplr(image_A)
