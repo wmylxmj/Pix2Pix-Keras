@@ -12,16 +12,3 @@
 1. 将权重文件放入weights文件夹
 2. 新建一个pix2pix模型实例
 2. 调用demo.py中的predict_single_image函数进行图片上色
-### Demo(中间的为pix2pix模型生成图，右边的为原始图片):
-![](images/sample_1.jpg)
-![](images/sample_2.jpg)
-![](images/sample_3.jpg)
-![](images/sample_4.jpg)
-![](images/sample_5.jpg)
-![](images/sample_6.jpg)
-![](images/sample_7.jpg)
-### 泛化能力测试——为漫画上色测试：
-<div align="center">
-  <img src="images/test_1.jpg" height="256" width="256" >
-  <img src="images/generate_test_1.jpg" height="256" width="256" >
-</div>
