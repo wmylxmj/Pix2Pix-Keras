@@ -5,7 +5,7 @@
 2. 运行prepare.py进行数据集的处理与准备
 ### 训练模型：
 1. 将权重文件放入weights文件夹
-2. 在datasets中的320张图片进行训练后的权重下载地址：https://pan.baidu.com/s/1IUamednTkPE0qPw736Crzw
+2. 训练好的最新权重下载地址：https://pan.baidu.com/s/1IUamednTkPE0qPw736Crzw
 3. 在demo.py中新建一个pix2pix模型实例
 4. 调用实例中的train函数进行训练
 ### 为新的图片上色:
