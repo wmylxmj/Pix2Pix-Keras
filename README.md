@@ -12,3 +12,4 @@
 1. 将权重文件放入weights文件夹
 2. 新建一个pix2pix模型实例
 2. 调用demo.py中的predict_single_image函数进行图片上色
+
