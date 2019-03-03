@@ -27,8 +27,8 @@
 </div>
 ### 泛化能力测式（给漫画上色）：
 <div align="center">
-  <img src="images/test_1.jpg" height="256" width="256" >
-  <img src="images/generate_test_1.jpg" height="256" width="256" >
-  <img src="images/test_2.jpg" height="256" width="256" >
-  <img src="images/generate_test_2.jpg" height="256" width="256" >
+  <img src="images/test_1.jpg" height="360" width="360" >
+  <img src="images/generate_test_1.jpg" height="360" width="360" >
+  <img src="images/test_2.jpg" height="360" width="360" >
+  <img src="images/generate_test_2.jpg" height="360" width="360" >
 </div>
