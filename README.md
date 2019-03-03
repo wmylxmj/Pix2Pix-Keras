@@ -14,6 +14,7 @@
 - 新建一个pix2pix模型实例
 - 调用demo.py中的predict_single_image函数进行图片上色
 ### Demo:
+
 <div align="center">
   <img src="images/sample_1.jpg" height="256" width="256" >
   <img src="images/sample_2.jpg" height="256" width="256" >
@@ -27,9 +28,13 @@
 </div>
 
 ### 泛化能力测式（给漫画上色）：
+
 <div align="center">
-  <img src="images/test_1.jpg" height="360" width="360" >
-  <img src="images/generate_test_1.jpg" height="360" width="360" >
-  <img src="images/test_2.jpg" height="360" width="360" >
-  <img src="images/generate_test_2.jpg" height="360" width="360" >
+  <img src="images/test_1.jpg" height="256" width="265" >
+  <img src="images/generate_test_1.jpg" height="256" width="256" >
+</div>
+
+<div align="center">
+  <img src="images/test_2.jpg" height="256" width="256" >
+  <img src="images/generate_test_2.jpg" height="256" width="256" >
 </div>
