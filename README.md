@@ -21,4 +21,7 @@
   <img src="images/sample_5.jpg" height="256" width="256" >
   <img src="images/sample_7.jpg" height="256" width="256" >
   <img src="images/sample_13.jpg" height="256" width="256" >
+  <img src="images/sample_3.jpg" height="256" width="256" >
+  <img src="images/sample_8.jpg" height="256" width="256" >
+  <img src="images/sample_9.jpg" height="256" width="256" >
 </div>
