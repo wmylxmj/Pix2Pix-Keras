@@ -7,7 +7,7 @@
 ### 训练模型：
 - 若要加载预训练权重，将权重文件放入weights文件夹
 - 最新权重(在30020张图片的大数据集下训练后的权重)下载
-- 链接：https://pan.baidu.com/s/10gu4Q0HsUgdb4LO2IoiOgg 提取码：d3c3 
+- 链接：https://pan.baidu.com/s/1tmfMTCpAFVpC6Z7GWvkrfA 提取码：cac2 
 - 在demo.py中新建一个pix2pix模型实例
 - 调用实例中的train函数进行训练
 ### 为新的图片上色:
