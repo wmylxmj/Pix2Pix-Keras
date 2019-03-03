@@ -6,7 +6,8 @@
 - 注意：当前datasets中的训练集过少，可增加训练集进行训练，防止过拟合
 ### 训练模型：
 - 若要加载预训练权重，将权重文件放入weights文件夹
-- 最新权重下载地址：链接：https://pan.baidu.com/s/10gu4Q0HsUgdb4LO2IoiOgg 提取码：d3c3 
+- 最新权重(在30020张图片的大数据集下训练后的权重)下载
+- 链接：https://pan.baidu.com/s/10gu4Q0HsUgdb4LO2IoiOgg 提取码：d3c3 
 - 在demo.py中新建一个pix2pix模型实例
 - 调用实例中的train函数进行训练
 ### 为新的图片上色:
