@@ -14,7 +14,7 @@
 - 将权重文件放入weights文件夹
 - 新建一个pix2pix模型实例
 - 调用demo.py中的predict_single_image函数进行图片上色
-### Demo:
+### Demo(中间的为AI预测，右边的为原始图像):
 
 <div align="center">
   <img src="images/sample_1.jpg" height="256" width="256" >
