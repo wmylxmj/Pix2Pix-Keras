@@ -1,5 +1,10 @@
 # Pix2Pix-Keras
 基于pix2pix模型的动漫图片自动上色 2019-2-25
+
+###### 环境
+- tensorflow-gpu                     1.12.0
+- Keras                              2.2.4
+
 ### 数据集的准备：
 - 把训练的彩色图片放入datasets\OriginalImages文件夹
 - 运行prepare.py进行数据集的处理与准备
